@@ -1,6 +1,6 @@
 # BB15 Arduino Library
 
-`BB15` is the board-centric Arduino library for BrainBoard15.
+`BB15` is the board-centric Arduino library for BrainBoard1500.
 
 The public API is centered on the physical BB15 board:
 
